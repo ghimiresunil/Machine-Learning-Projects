@@ -1,1 +1,4 @@
 venv.txt
+__pycache__
+input/raw_text
+input/stopwords
